@@ -1,0 +1,4 @@
+const fruits = ["apple", "banana", "orange", "grape", "mango"];
+const numberOfFruits = fruits.length;
+
+console.log(`There are ${numberOfFruits} fruits in the array.`);
